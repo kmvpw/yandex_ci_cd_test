@@ -1,1 +1,1 @@
-print("CICD webinar ")
+print("CICD webinar")
